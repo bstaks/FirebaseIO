@@ -1,0 +1,15 @@
+E:\vs2023\FireBaseIO\bal.airbolus\bin\Debug\net7.0\bal.airbolus.deps.json
+E:\vs2023\FireBaseIO\bal.airbolus\bin\Debug\net7.0\bal.airbolus.dll
+E:\vs2023\FireBaseIO\bal.airbolus\bin\Debug\net7.0\bal.airbolus.pdb
+E:\vs2023\FireBaseIO\bal.airbolus\bin\Debug\net7.0\dal.airbolus.dll
+E:\vs2023\FireBaseIO\bal.airbolus\bin\Debug\net7.0\dal.airbolus.pdb
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.csproj.AssemblyReference.cache
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.AssemblyInfoInputs.cache
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.AssemblyInfo.cs
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.csproj.CoreCompileInputs.cache
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.csproj.CopyComplete
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.dll
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\refint\bal.airbolus.dll
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\bal.airbolus.pdb
+E:\vs2023\FireBaseIO\bal.airbolus\obj\Debug\net7.0\ref\bal.airbolus.dll
